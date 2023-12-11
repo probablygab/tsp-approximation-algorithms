@@ -1,0 +1,1462 @@
+{
+    "eil51": {
+        "tat": {
+            "time": 0.024852275848388672,
+            "max_mem": 37.20703125,
+            "result": 583,
+            "ratio": 1.3685446009389672
+        },
+        "chr": {
+            "time": 0.02788257598876953,
+            "max_mem": 37.62890625,
+            "result": 470,
+            "ratio": 1.1032863849765258
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "berlin52": {
+        "tat": {
+            "time": 0.02330183982849121,
+            "max_mem": 37.7890625,
+            "result": 10276,
+            "ratio": 1.3625033147706178
+        },
+        "chr": {
+            "time": 0.02887105941772461,
+            "max_mem": 37.99609375,
+            "result": 8343,
+            "ratio": 1.1062052505966586
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "st70": {
+        "tat": {
+            "time": 0.013572216033935547,
+            "max_mem": 38.46484375,
+            "result": 919,
+            "ratio": 1.3614814814814815
+        },
+        "chr": {
+            "time": 0.049004554748535156,
+            "max_mem": 39.19140625,
+            "result": 766,
+            "ratio": 1.1348148148148147
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "eil76": {
+        "tat": {
+            "time": 0.015430927276611328,
+            "max_mem": 39.27734375,
+            "result": 715,
+            "ratio": 1.328996282527881
+        },
+        "chr": {
+            "time": 0.06465864181518555,
+            "max_mem": 39.27734375,
+            "result": 606,
+            "ratio": 1.1263940520446096
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "pr76": {
+        "tat": {
+            "time": 0.015315055847167969,
+            "max_mem": 39.27734375,
+            "result": 146155,
+            "ratio": 1.351297626642258
+        },
+        "chr": {
+            "time": 0.04177570343017578,
+            "max_mem": 39.27734375,
+            "result": 115425,
+            "ratio": 1.0671788755443374
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "rat99": {
+        "tat": {
+            "time": 0.020673751831054688,
+            "max_mem": 40.65625,
+            "result": 1693,
+            "ratio": 1.398018166804294
+        },
+        "chr": {
+            "time": 0.0632319450378418,
+            "max_mem": 41.09375,
+            "result": 1393,
+            "ratio": 1.1502890173410405
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "kroA100": {
+        "tat": {
+            "time": 0.02160334587097168,
+            "max_mem": 42.7109375,
+            "result": 27584,
+            "ratio": 1.2961187858283996
+        },
+        "chr": {
+            "time": 0.07443451881408691,
+            "max_mem": 43.0859375,
+            "result": 24690,
+            "ratio": 1.1601353256272906
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "kroB100": {
+        "tat": {
+            "time": 0.022814035415649414,
+            "max_mem": 43.33984375,
+            "result": 26073,
+            "ratio": 1.1775890881170679
+        },
+        "chr": {
+            "time": 0.05515241622924805,
+            "max_mem": 43.33984375,
+            "result": 24001,
+            "ratio": 1.0840070457522244
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "kroC100": {
+        "tat": {
+            "time": 0.021969318389892578,
+            "max_mem": 43.34765625,
+            "result": 27827,
+            "ratio": 1.341124873487879
+        },
+        "chr": {
+            "time": 0.06729912757873535,
+            "max_mem": 43.34765625,
+            "result": 23328,
+            "ratio": 1.1242951467540605
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "kroD100": {
+        "tat": {
+            "time": 0.022037506103515625,
+            "max_mem": 43.4140625,
+            "result": 28346,
+            "ratio": 1.3311731004038696
+        },
+        "chr": {
+            "time": 0.07226991653442383,
+            "max_mem": 43.453125,
+            "result": 23864,
+            "ratio": 1.1206912745374285
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "kroE100": {
+        "tat": {
+            "time": 0.02278923988342285,
+            "max_mem": 43.59375,
+            "result": 31067,
+            "ratio": 1.407785028094979
+        },
+        "chr": {
+            "time": 0.0881798267364502,
+            "max_mem": 43.59375,
+            "result": 24073,
+            "ratio": 1.0908555374297626
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "rd100": {
+        "tat": {
+            "time": 0.0219728946685791,
+            "max_mem": 43.59375,
+            "result": 10765,
+            "ratio": 1.360935524652339
+        },
+        "chr": {
+            "time": 0.10910868644714355,
+            "max_mem": 43.59375,
+            "result": 8834,
+            "ratio": 1.1168141592920353
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "eil101": {
+        "tat": {
+            "time": 0.021327495574951172,
+            "max_mem": 43.62890625,
+            "result": 852,
+            "ratio": 1.354531001589825
+        },
+        "chr": {
+            "time": 0.0966644287109375,
+            "max_mem": 43.7265625,
+            "result": 717,
+            "ratio": 1.1399046104928459
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "lin105": {
+        "tat": {
+            "time": 0.023726224899291992,
+            "max_mem": 43.7265625,
+            "result": 19495,
+            "ratio": 1.355796647889283
+        },
+        "chr": {
+            "time": 0.07106876373291016,
+            "max_mem": 43.7265625,
+            "result": 16320,
+            "ratio": 1.1349885249321927
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "pr107": {
+        "tat": {
+            "time": 0.023964405059814453,
+            "max_mem": 43.765625,
+            "result": 54237,
+            "ratio": 1.2242286075435072
+        },
+        "chr": {
+            "time": 0.05656862258911133,
+            "max_mem": 43.875,
+            "result": 47891,
+            "ratio": 1.0809877434936686
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "pr124": {
+        "tat": {
+            "time": 0.03162646293640137,
+            "max_mem": 44.80078125,
+            "result": 72829,
+            "ratio": 1.233762493647298
+        },
+        "chr": {
+            "time": 0.04794788360595703,
+            "max_mem": 44.80078125,
+            "result": 64438,
+            "ratio": 1.0916144333389801
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "bier127": {
+        "tat": {
+            "time": 0.0314021110534668,
+            "max_mem": 44.80078125,
+            "result": 158205,
+            "ratio": 1.3375238836002097
+        },
+        "chr": {
+            "time": 0.19390296936035156,
+            "max_mem": 44.80078125,
+            "result": 132584,
+            "ratio": 1.1209144248490894
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "ch130": {
+        "tat": {
+            "time": 0.03286004066467285,
+            "max_mem": 44.8125,
+            "result": 8129,
+            "ratio": 1.330441898527005
+        },
+        "chr": {
+            "time": 0.10128021240234375,
+            "max_mem": 44.8125,
+            "result": 6773,
+            "ratio": 1.1085106382978724
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "pr136": {
+        "tat": {
+            "time": 0.037223100662231445,
+            "max_mem": 46.63671875,
+            "result": 151238,
+            "ratio": 1.5628280907700574
+        },
+        "chr": {
+            "time": 0.04587578773498535,
+            "max_mem": 46.63671875,
+            "result": 103027,
+            "ratio": 1.0646364650932088
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "pr144": {
+        "tat": {
+            "time": 0.0522150993347168,
+            "max_mem": 46.8125,
+            "result": 80552,
+            "ratio": 1.376086919384321
+        },
+        "chr": {
+            "time": 0.06903576850891113,
+            "max_mem": 46.8125,
+            "result": 70404,
+            "ratio": 1.2027264806874285
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "ch150": {
+        "tat": {
+            "time": 0.05545806884765625,
+            "max_mem": 46.8125,
+            "result": 8636,
+            "ratio": 1.3229166666666667
+        },
+        "chr": {
+            "time": 0.1161494255065918,
+            "max_mem": 46.64453125,
+            "result": 7143,
+            "ratio": 1.0942095588235294
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "kroA150": {
+        "tat": {
+            "time": 0.04272913932800293,
+            "max_mem": 46.69140625,
+            "result": 35119,
+            "ratio": 1.3240461468858393
+        },
+        "chr": {
+            "time": 0.25464415550231934,
+            "max_mem": 46.69140625,
+            "result": 29688,
+            "ratio": 1.1192881918262705
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "kroB150": {
+        "tat": {
+            "time": 0.04293632507324219,
+            "max_mem": 46.69140625,
+            "result": 36625,
+            "ratio": 1.4016456180635286
+        },
+        "chr": {
+            "time": 0.2618093490600586,
+            "max_mem": 46.69140625,
+            "result": 29981,
+            "ratio": 1.1473784921546115
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "pr152": {
+        "tat": {
+            "time": 0.04261898994445801,
+            "max_mem": 47.8671875,
+            "result": 87995,
+            "ratio": 1.1942536847533998
+        },
+        "chr": {
+            "time": 0.05950307846069336,
+            "max_mem": 47.90234375,
+            "result": 79311,
+            "ratio": 1.0763958633044706
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "u159": {
+        "tat": {
+            "time": 0.047295331954956055,
+            "max_mem": 47.90234375,
+            "result": 57791,
+            "ratio": 1.3733602661596958
+        },
+        "chr": {
+            "time": 0.16991758346557617,
+            "max_mem": 47.640625,
+            "result": 47586,
+            "ratio": 1.1308460076045628
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "rat195": {
+        "tat": {
+            "time": 0.07784581184387207,
+            "max_mem": 51.015625,
+            "result": 3234,
+            "ratio": 1.3921653034868704
+        },
+        "chr": {
+            "time": 0.264237642288208,
+            "max_mem": 50.90625,
+            "result": 2630,
+            "ratio": 1.1321566939302625
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "d198": {
+        "tat": {
+            "time": 0.07919144630432129,
+            "max_mem": 50.29296875,
+            "result": 18936,
+            "ratio": 1.2
+        },
+        "chr": {
+            "time": 0.33199262619018555,
+            "max_mem": 50.19921875,
+            "result": 17347,
+            "ratio": 1.0993029150823828
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "kroA200": {
+        "tat": {
+            "time": 0.0483248233795166,
+            "max_mem": 50.41015625,
+            "result": 41133,
+            "ratio": 1.4006061018795968
+        },
+        "chr": {
+            "time": 0.2294480800628662,
+            "max_mem": 50.13671875,
+            "result": 33004,
+            "ratio": 1.1238082266412421
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "kroB200": {
+        "tat": {
+            "time": 0.04913330078125,
+            "max_mem": 50.4375,
+            "result": 41209,
+            "ratio": 1.3999048816115773
+        },
+        "chr": {
+            "time": 0.39746952056884766,
+            "max_mem": 50.58984375,
+            "result": 32851,
+            "ratio": 1.1159764921697184
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "ts225": {
+        "tat": {
+            "time": 0.058287858963012695,
+            "max_mem": 51.9609375,
+            "result": 184426,
+            "ratio": 1.4562668288022236
+        },
+        "chr": {
+            "time": 0.09826159477233887,
+            "max_mem": 51.84765625,
+            "result": 134702,
+            "ratio": 1.0636355740151449
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "tsp225": {
+        "tat": {
+            "time": 0.05502653121948242,
+            "max_mem": 52.9453125,
+            "result": 5140,
+            "ratio": 1.3115590711916305
+        },
+        "chr": {
+            "time": 0.32480883598327637,
+            "max_mem": 52.95703125,
+            "result": 4386,
+            "ratio": 1.1191630517989284
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "pr226": {
+        "tat": {
+            "time": 0.056996822357177734,
+            "max_mem": 54.03125,
+            "result": 116650,
+            "ratio": 1.4514302778434471
+        },
+        "chr": {
+            "time": 0.29784679412841797,
+            "max_mem": 54.22265625,
+            "result": 92446,
+            "ratio": 1.1502693824733417
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "gil262": {
+        "tat": {
+            "time": 0.0852210521697998,
+            "max_mem": 54.390625,
+            "result": 3308,
+            "ratio": 1.391084945332212
+        },
+        "chr": {
+            "time": 0.315746545791626,
+            "max_mem": 53.91796875,
+            "result": 2724,
+            "ratio": 1.1455004205214465
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "pr264": {
+        "tat": {
+            "time": 0.08808541297912598,
+            "max_mem": 54.625,
+            "result": 66470,
+            "ratio": 1.3528035005596826
+        },
+        "chr": {
+            "time": 0.2985267639160156,
+            "max_mem": 54.55078125,
+            "result": 54662,
+            "ratio": 1.1124860079373156
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "a280": {
+        "tat": {
+            "time": 0.09188508987426758,
+            "max_mem": 55.91015625,
+            "result": 3592,
+            "ratio": 1.3927879022877083
+        },
+        "chr": {
+            "time": 0.28070926666259766,
+            "max_mem": 54.8984375,
+            "result": 2914,
+            "ratio": 1.129895308259015
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "pr299": {
+        "tat": {
+            "time": 0.11615228652954102,
+            "max_mem": 68.69140625,
+            "result": 64645,
+            "ratio": 1.3414330476645018
+        },
+        "chr": {
+            "time": 0.4501504898071289,
+            "max_mem": 68.69140625,
+            "result": 52969,
+            "ratio": 1.0991471436575295
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "lin318": {
+        "tat": {
+            "time": 0.12712693214416504,
+            "max_mem": 61.65234375,
+            "result": 58138,
+            "ratio": 1.383282971281734
+        },
+        "chr": {
+            "time": 0.5709438323974609,
+            "max_mem": 61.65234375,
+            "result": 47246,
+            "ratio": 1.1241285778866972
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "linhp318": {
+        "tat": {
+            "time": 0.1266031265258789,
+            "max_mem": 60.66796875,
+            "result": 58138,
+            "ratio": 1.406167613979925
+        },
+        "chr": {
+            "time": 0.5685422420501709,
+            "max_mem": 60.66796875,
+            "result": 47246,
+            "ratio": 1.1427258435119119
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "rd400": {
+        "tat": {
+            "time": 0.21723318099975586,
+            "max_mem": 76.12109375,
+            "result": 20431,
+            "ratio": 1.3370198285452524
+        },
+        "chr": {
+            "time": 1.3605704307556152,
+            "max_mem": 76.12109375,
+            "result": 17527,
+            "ratio": 1.146979909691774
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "fl417": {
+        "tat": {
+            "time": 0.22170209884643555,
+            "max_mem": 79.0,
+            "result": 16082,
+            "ratio": 1.3558721861563106
+        },
+        "chr": {
+            "time": 0.592247486114502,
+            "max_mem": 79.0,
+            "result": 13166,
+            "ratio": 1.1100244498777505
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "pr439": {
+        "tat": {
+            "time": 0.2549705505371094,
+            "max_mem": 83.59375,
+            "result": 144623,
+            "ratio": 1.3488812408479998
+        },
+        "chr": {
+            "time": 0.7182004451751709,
+            "max_mem": 83.5390625,
+            "result": 119525,
+            "ratio": 1.1147952283686355
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "pcb442": {
+        "tat": {
+            "time": 0.2803168296813965,
+            "max_mem": 98.8671875,
+            "result": 68940,
+            "ratio": 1.357674583481035
+        },
+        "chr": {
+            "time": 1.3412764072418213,
+            "max_mem": 98.8671875,
+            "result": 56303,
+            "ratio": 1.1088069636456732
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "d493": {
+        "tat": {
+            "time": 0.3822968006134033,
+            "max_mem": 114.984375,
+            "result": 44882,
+            "ratio": 1.282269584595166
+        },
+        "chr": {
+            "time": 2.3358192443847656,
+            "max_mem": 114.984375,
+            "result": 38692,
+            "ratio": 1.1054225472830124
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "u574": {
+        "tat": {
+            "time": 0.27343034744262695,
+            "max_mem": 153.2265625,
+            "result": 48849,
+            "ratio": 1.323641782956239
+        },
+        "chr": {
+            "time": 2.7627692222595215,
+            "max_mem": 133.0,
+            "result": 41360,
+            "ratio": 1.120715350223547
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "rat575": {
+        "tat": {
+            "time": 0.2748289108276367,
+            "max_mem": 165.5703125,
+            "result": 9393,
+            "ratio": 1.3868300605344752
+        },
+        "chr": {
+            "time": 2.7865493297576904,
+            "max_mem": 119.765625,
+            "result": 7811,
+            "ratio": 1.153255573601063
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "p654": {
+        "tat": {
+            "time": 0.32869815826416016,
+            "max_mem": 133.51953125,
+            "result": 49699,
+            "ratio": 1.4346043933839447
+        },
+        "chr": {
+            "time": 0.7139337062835693,
+            "max_mem": 133.40234375,
+            "result": 39292,
+            "ratio": 1.1341973847530527
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "d657": {
+        "tat": {
+            "time": 0.41866469383239746,
+            "max_mem": 195.984375,
+            "result": 66339,
+            "ratio": 1.356292934249264
+        },
+        "chr": {
+            "time": 4.492262840270996,
+            "max_mem": 161.07421875,
+            "result": 55005,
+            "ratio": 1.1245706575073602
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "u724": {
+        "tat": {
+            "time": 0.4978334903717041,
+            "max_mem": 237.84765625,
+            "result": 57721,
+            "ratio": 1.3772607969458364
+        },
+        "chr": {
+            "time": 5.300830602645874,
+            "max_mem": 200.96484375,
+            "result": 47601,
+            "ratio": 1.1357909806728705
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "rat783": {
+        "tat": {
+            "time": 0.5850164890289307,
+            "max_mem": 272.58984375,
+            "result": 11921,
+            "ratio": 1.3537360890302066
+        },
+        "chr": {
+            "time": 7.05488920211792,
+            "max_mem": 208.0390625,
+            "result": 10052,
+            "ratio": 1.1414944356120826
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "pr1002": {
+        "tat": {
+            "time": 0.9583592414855957,
+            "max_mem": 376.1640625,
+            "result": 342216,
+            "ratio": 1.321067768148391
+        },
+        "chr": {
+            "time": 16.208989143371582,
+            "max_mem": 322.0390625,
+            "result": 286203,
+            "ratio": 1.104838927599452
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "u1060": {
+        "tat": {
+            "time": 1.174314260482788,
+            "max_mem": 469.55078125,
+            "result": 305496,
+            "ratio": 1.3632493507188947
+        },
+        "chr": {
+            "time": 16.5106201171875,
+            "max_mem": 378.1484375,
+            "result": 249341,
+            "ratio": 1.1126625433969672
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "vm1084": {
+        "tat": {
+            "time": 1.3648483753204346,
+            "max_mem": 496.375,
+            "result": 316286,
+            "ratio": 1.3217299005002152
+        },
+        "chr": {
+            "time": 10.635932922363281,
+            "max_mem": 394.640625,
+            "result": 261199,
+            "ratio": 1.091526429499743
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "pcb1173": {
+        "tat": {
+            "time": 1.547560453414917,
+            "max_mem": 535.42578125,
+            "result": 80761,
+            "ratio": 1.4195493215214794
+        },
+        "chr": {
+            "time": 14.758534669876099,
+            "max_mem": 429.11328125,
+            "result": 63767,
+            "ratio": 1.1208430007733952
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "d1291": {
+        "tat": {
+            "time": 1.8835415840148926,
+            "max_mem": 624.53515625,
+            "result": 75282,
+            "ratio": 1.4818999625991613
+        },
+        "chr": {
+            "time": 5.522218942642212,
+            "max_mem": 497.09765625,
+            "result": 57655,
+            "ratio": 1.134918603964489
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "rl1304": {
+        "tat": {
+            "time": 2.0507500171661377,
+            "max_mem": 652.8515625,
+            "result": 348373,
+            "ratio": 1.3772514508910922
+        },
+        "chr": {
+            "time": 5.8700950145721436,
+            "max_mem": 499.2890625,
+            "result": 277772,
+            "ratio": 1.0981387478849407
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "rl1323": {
+        "tat": {
+            "time": 2.072068929672241,
+            "max_mem": 669.34375,
+            "result": 379775,
+            "ratio": 1.4055381404076255
+        },
+        "chr": {
+            "time": 5.949586391448975,
+            "max_mem": 514.796875,
+            "result": 297715,
+            "ratio": 1.1018360541674839
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "nrw1379": {
+        "tat": {
+            "time": 2.4065194129943848,
+            "max_mem": 752.99609375,
+            "result": 79047,
+            "ratio": 1.3956530950951658
+        },
+        "chr": {
+            "time": 48.1342875957489,
+            "max_mem": 594.51171875,
+            "result": 63710,
+            "ratio": 1.1248631660722483
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "fl1400": {
+        "tat": {
+            "time": 2.1197330951690674,
+            "max_mem": 851.0859375,
+            "result": 28022,
+            "ratio": 1.392259154369752
+        },
+        "chr": {
+            "time": 49.50466227531433,
+            "max_mem": 673.2421875,
+            "result": 22980,
+            "ratio": 1.1417498882098673
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "u1432": {
+        "tat": {
+            "time": 2.533628225326538,
+            "max_mem": 937.078125,
+            "result": 214569,
+            "ratio": 1.402686801333595
+        },
+        "chr": {
+            "time": 23.184691190719604,
+            "max_mem": 749.359375,
+            "result": 171615,
+            "ratio": 1.1218866444400863
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "fl1577": {
+        "tat": {
+            "time": 2.7835330963134766,
+            "max_mem": 993.046875,
+            "result": 30182,
+            "ratio": 1.359304629796433
+        },
+        "chr": {
+            "time": 12.899423360824585,
+            "max_mem": 800.17578125,
+            "result": 24606,
+            "ratio": 1.1081787065393622
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "d1655": {
+        "tat": {
+            "time": 3.4291818141937256,
+            "max_mem": 1089.12890625,
+            "result": 85283,
+            "ratio": 1.3726983002832862
+        },
+        "chr": {
+            "time": 28.379132509231567,
+            "max_mem": 851.17578125,
+            "result": 69719,
+            "ratio": 1.122183234612413
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "vm1748": {
+        "tat": {
+            "time": 3.481816530227661,
+            "max_mem": 839.1171875,
+            "result": 442755,
+            "ratio": 1.3155462983871926
+        },
+        "chr": {
+            "time": 40.09350514411926,
+            "max_mem": 839.64453125,
+            "result": 376203,
+            "ratio": 1.1178020893996838
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "u1817": {
+        "tat": {
+            "time": 4.193686246871948,
+            "max_mem": 1304.8828125,
+            "result": 82013,
+            "ratio": 1.4337686404083845
+        },
+        "chr": {
+            "time": 26.540916204452515,
+            "max_mem": 1062.6796875,
+            "result": 66103,
+            "ratio": 1.1556266498837433
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "rl1889": {
+        "tat": {
+            "time": 4.522500038146973,
+            "max_mem": 1389.30859375,
+            "result": 448663,
+            "ratio": 1.4174153966689413
+        },
+        "chr": {
+            "time": 18.740360260009766,
+            "max_mem": 1070.01171875,
+            "result": 344568,
+            "ratio": 1.0885586473576465
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "d2103": {
+        "tat": {
+            "time": 5.264521837234497,
+            "max_mem": 1590.7265625,
+            "result": 123085,
+            "ratio": 1.539486191715029
+        },
+        "chr": {
+            "time": 6.504283905029297,
+            "max_mem": 1263.86328125,
+            "result": 84205,
+            "ratio": 1.05319441664999
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "u2152": {
+        "tat": {
+            "time": 6.161325454711914,
+            "max_mem": 1714.15234375,
+            "result": 93790,
+            "ratio": 1.4596983798421863
+        },
+        "chr": {
+            "time": 41.69145369529724,
+            "max_mem": 1285.94921875,
+            "result": 72422,
+            "ratio": 1.1271380324654101
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "u2319": {
+        "tat": {
+            "time": 7.312338590621948,
+            "max_mem": 1888.4296875,
+            "result": 320310,
+            "ratio": 1.3673502492999112
+        },
+        "chr": {
+            "time": 195.01863956451416,
+            "max_mem": 1448.37890625,
+            "result": 272116,
+            "ratio": 1.1616180588757599
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "pr2392": {
+        "tat": {
+            "time": 7.743039131164551,
+            "max_mem": 2301.60546875,
+            "result": 523107,
+            "ratio": 1.3837638083548482
+        },
+        "chr": {
+            "time": 172.2898027896881,
+            "max_mem": 1693.125,
+            "result": 425940,
+            "ratio": 1.1267300122740933
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "pcb3038": {
+        "tat": {
+            "time": 11.714640378952026,
+            "max_mem": 3112.16015625,
+            "result": 197477,
+            "ratio": 1.4341728760875565
+        },
+        "chr": {
+            "time": 262.28578543663025,
+            "max_mem": 2589.79296875,
+            "result": 154651,
+            "ratio": 1.1231498830740627
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "fl3795": {
+        "tat": {
+            "time": 17.204294204711914,
+            "max_mem": 4808.78125,
+            "result": 36256,
+            "ratio": 1.2622636911186158
+        },
+        "chr": {
+            "time": 438.8532364368439,
+            "max_mem": 3822.99609375,
+            "result": 31850,
+            "ratio": 1.1088674581345959
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "fnl4461": {
+        "tat": {
+            "time": 27.235344171524048,
+            "max_mem": 6931.5546875,
+            "result": 255829,
+            "ratio": 1.4012959696767195
+        },
+        "chr": {
+            "time": 1402.7401177883148,
+            "max_mem": 5346.1484375,
+            "result": 205811,
+            "ratio": 1.1273238171401028
+        },
+        "bnb": {
+            "time": "NA",
+            "max_mem": "OUT OF MEMORY",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "rl5915": {
+        "tat": {
+            "time": 52.32304930686951,
+            "max_mem": 8700.8046875,
+            "result": 842903,
+            "ratio": 1.491758105620841
+        },
+        "chr": {
+			"time": "TIMEOUT EXCEEDED",
+				"max_mem": "NA",
+				"result": "NA",
+				"ratio": "NA"
+		},
+        "bnb": {
+            "time": "TIMEOUT EXCEEDED",
+            "max_mem": "NA",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    },
+    "rl5934": {
+        "tat": {
+            "time": 50.557668685913086,
+            "max_mem": 13671.25390625,
+            "result": 816642,
+            "ratio": 1.473896800043316
+        },
+        "chr": {
+			"time": "TIMEOUT EXCEEDED",
+				"max_mem": "NA",
+				"result": "NA",
+				"ratio": "NA"
+		},
+        "bnb": {
+            "time": "TIMEOUT EXCEEDED",
+            "max_mem": "NA",
+            "result": "NA",
+            "ratio": "NA"
+        }
+    }
+}

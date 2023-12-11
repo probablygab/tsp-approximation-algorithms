@@ -1,0 +1,24 @@
+# step 1
+# just run the following commands
+
+pip install cython
+pip install setuptools
+python setup.py build
+
+# step 2
+# go to build folder and go to lib.xxxxxx folder
+
+# on windows the resulting file has extension .pyd
+# on linux the resulting file has extension .so
+# this file is a dynamic linked library with python bindings
+
+# you can rename this file (keep the extension though)
+# put this file in the same directory as your main project
+
+# step 3
+# add the following line to your python script 
+
+from <filename> import <function names> 
+
+# step 4
+# good luck have fun
